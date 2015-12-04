@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF5BA742-BD29-475E-8FBB-1250B9E1B1C7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>青云微信</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1FC6204F485C15911A7BBDF5F4C53C4516B3673A</key>
+		<string>github.com:wjl626nice/QYXMPP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>青云微信.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1FC6204F485C15911A7BBDF5F4C53C4516B3673A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:wjl626nice/QYXMPP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1FC6204F485C15911A7BBDF5F4C53C4516B3673A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FC6204F485C15911A7BBDF5F4C53C4516B3673A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QYXMPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
